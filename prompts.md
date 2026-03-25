@@ -1,0 +1,24 @@
+# Testing Prompts & Learning Questions
+
+- How to test ProtectedRoute behavior with React Testing Library
+- How to add integration tests for cart flow: add item, update quantity, checkout
+- How to write unit tests for Redux slices (cartSlice, filtersSlice, themeSlice)
+- How to test form validation with user inputs and error messages
+- How to test loading and error states while fetching data
+- How to display empty-state UI when data has no items and test it
+- How to test API failures gracefully with retry and fallback UI
+- How to add skeleton loaders for cards and test their presence
+- How to test conditional rendering based on component props
+- How to test form field validation before submission
+- How to disable submit button until form validation passes and verify it in tests
+- How to write tests for debounced search input for performance
+- How to test modal open/close interactions with user events
+- How to write tests for keyboard navigation (Tab, Enter, Escape)
+- How to test semantic HTML and ARIA attributes in components
+- How to test form labels are properly associated with inputs
+- How to test redirect behavior after user actions (login, logout)
+- How to test theme persistence in localStorage across sessions
+- How to set up CI checks for lint, build, and tests before deployment
+- How to write snapshot tests when appropriate
+- How to measure and improve test coverage for the application
+- How to organize test files following best practices (colocated vs centralized)
