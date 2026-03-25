@@ -1,6 +1,6 @@
 import { render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
-import Counter from "./Counter";
+import Counter from "./userEvent";
 
 test("button click se count badhta hai", async () => {
   render(<Counter />);
